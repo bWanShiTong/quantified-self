@@ -35,3 +35,8 @@ UI would be used primary on desktops, it would be used to control backend servic
 ### App
 
 App could work both as UI for backend service, where it would read/write to backend service, or as backend service where it get's data from devices and stores them on device.
+
+
+## Integrations
+
+See [here](./integrations/index.md)
